@@ -1,6 +1,5 @@
 # Socket/Websocket
 
-Explicação:
 É importe ressaltarmos as diferenças entre socket e websocket.
 WebSocket é o protocolo de comunicação que fornece comunicação bidirecional entre o Cliente e o Servidor através de uma conexão TCP. O WebSocket permanece aberto o tempo todo, permitindo a transferência de dados em tempo real. 
 Socket.IO é uma biblioteca que permite a comunicação em tempo real e full-duplex entre o Cliente e os servidores Web.

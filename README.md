@@ -3,7 +3,7 @@
 É importe ressaltarmos as diferenças entre socket e websocket.
 WebSocket é o protocolo de comunicação que fornece comunicação bidirecional entre o Cliente e o Servidor através de uma conexão TCP. O WebSocket permanece aberto o tempo todo, permitindo a transferência de dados em tempo real. 
 
-# POC Socket
+# POC
 
 Para a criação de uma conexão Servidor/Cliente de um Socket é necessário a utilização de alguns métodos, os principais deles são:
 
@@ -29,8 +29,4 @@ int listen(int sockfd, int backlog);
 int new_socket= accept(int sockfd, struct sockaddr *addr, socklen_t *addrlen);
 
 
-Para Compilar
-
-gcc client.c -o client
-gcc server.c -o server
 

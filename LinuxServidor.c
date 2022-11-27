@@ -1,4 +1,4 @@
-// Criação de envio e recebimento de mensagens partindo do servidor
+// CriaÃ§Ã£o de envio e recebimento de mensagens partindo do servidor
 #include <netinet/in.h>
 #include <stdio.h>
 #include <stdlib.h>

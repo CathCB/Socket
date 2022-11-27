@@ -1,4 +1,4 @@
-//Criação de envio e recebimento de mensagens partindo do cliente
+//CriaÃ§Ã£o de envio e recebimento de mensagens partindo do cliente
 #include <arpa/inet.h>
 #include <stdio.h>
 #include <string.h>
